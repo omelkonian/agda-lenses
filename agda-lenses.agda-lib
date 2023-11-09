@@ -1,0 +1,7 @@
+name: agda-lenses
+depend:
+  standard-library
+  standard-library-classes
+  standard-library-meta
+include: .
+flags: --safe --without-K
